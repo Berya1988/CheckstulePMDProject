@@ -12,4 +12,8 @@ public class App {
     public static void fasf(String[] args) throws Exception {
         System.out.println("Hello World!")  ;
     }
+
+    public static void second(String[] args) throws Exception {
+        System.out.println("Hello World!")  ;
+    }
 }
