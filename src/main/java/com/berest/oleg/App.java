@@ -9,7 +9,7 @@ public class App {
         System.out.println("Hello World!");
     }
 
-    public static void fasf(String[] args) {
+    public static void fasf(String[] args) throws Exception {
         System.out.println("Hello World!")  ;
     }
 }
